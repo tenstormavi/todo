@@ -1,4 +1,4 @@
 todo
 ====
 
-A small Django app
+A small Django app (learning django)
